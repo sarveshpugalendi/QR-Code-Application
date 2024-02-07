@@ -14,8 +14,8 @@ This application provides a simple solution for managing attendance using QR cod
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/1-portrait.png)
-![Screenshot 2](/screenshots/2-portrait.png)
-![Screenshot 3](/screenshots/3-portrait.png)
-![Screenshot 4](/screenshots/4-portrait.png)
-![Screenshot 5](/screenshots/5-portrait.png)
+![Screenshot 1](/Screenshots/1-portrait.png)
+![Screenshot 2](/Screenshots/2-portrait.png)
+![Screenshot 3](/Screenshots/3-portrait.png)
+![Screenshot 4](/Screenshots/4-portrait.png)
+![Screenshot 5](/Screenshots/5-portrait.png)
