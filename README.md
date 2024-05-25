@@ -1,10 +1,10 @@
 # QR Attendance Application
 
-This repository contains the source code for a QR Attendance Application.
-
 ## Overview
 
 This application provides a simple solution for managing attendance using QR codes. With this system, users can generate unique QR codes for events or classes, and participants can scan these codes to mark their attendance.
+
+![Screenshot 5](/Screenshots/SplashScreen.png)
 
 ## Features
 
